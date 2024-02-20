@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.ncsu.csc216.wolf_tickets.model.tickets","l":"ActiveTicketList"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
